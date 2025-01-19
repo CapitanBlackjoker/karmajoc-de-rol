@@ -16,7 +16,7 @@
     "gridUnits": "m",
     "primaryTokenAttribute": "energia",
     "url": "https://github.com/CapitanBlackjoker/karma-zero",
-    "manifest": "https://github.com/CapitanBlackjoker/karma-zero/blob/main/system.json",
+    "manifest": "https://raw.githubusercontent.com/CapitanBlackjoker/karmajoc-de-rol/refs/heads/main/system.json",
     "download": "https://github.com/CapitanBlackjoker/karma-zero/archive/refs/heads/main.zip",
     "compatibility": {
         "minimum": "11",
