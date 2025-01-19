@@ -1,13 +1,27 @@
 {
     "name": "karma-zero",
     "title": "Karma Zero",
-    "version": "1.0",
     "description": "Adaptació de Karma Zero per a Foundry VTT v11",
+    "version": "1.0",
+    "minimumCoreVersion": "11",
     "author": "Blackie",
     "languages": [
         {
             "lang": "ca",
-            "name": "Català"
+            "name": "Català",
+            "path": "lang/ca.json"
         }
-    ]
+    ],
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "energia",
+    "url": "https://github.com/CapitanBlackjoker/karma-zero",
+    "manifest": "https://github.com/CapitanBlackjoker/karma-zero/blob/main/system.json",
+    "download": "https://github.com/CapitanBlackjoker/karma-zero/archive/refs/heads/main.zip",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "11"
+    },
+    "system": true
 }
+
