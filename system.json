@@ -1,0 +1,13 @@
+{
+    "name": "karma-zero",
+    "title": "Karma Zero",
+    "version": "1.0",
+    "description": "Adaptació de Karma Zero per a Foundry VTT v11",
+    "author": "Blackie",
+    "languages": [
+        {
+            "lang": "ca",
+            "name": "Català"
+        }
+    ]
+}
